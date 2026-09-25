@@ -12,3 +12,6 @@ completada.
 
 Registrar notas: Guardar información, ideas o apuntes personales y 
 académicos dentro de la aplicación.
+
+Revisión de Notas: Permite revisar y editar notas importantes que se 
+crean convenientes en cualquier ámbito
