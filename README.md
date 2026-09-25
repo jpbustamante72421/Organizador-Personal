@@ -46,3 +46,12 @@ Requests:Realizar solicitudes a APIs y servicios externos.
 python-dotenv:Gestionar variables de entorno mediante un archivo .env.
 Git:Controlar las versiones del código.
 GitHub:Almacenar y respaldar el proyecto en línea.
+
+COLABORACION:
+El flujo de contribución y trabajo colaborativo se realiza mediante el modelo estándar de Fork y Pull RequesT:
+
+Fork: Crear una copia del repositorio original en tu cuenta personal de GitHub.
+Clonar: Descargar el repositorio derivado a la máquina local.
+Rama de trabajo: Crear una rama independiente para implementar los cambios (`git switch -c mejora-documentacion`).
+Commit & Push: Confirmar los cambios realizados localmente y subirlos a tu repositorio remoto en GitHub.
+Pull Request: Solicitar la revisión e integración de los cambios propuestos hacia la rama `main` del repositorio original.
